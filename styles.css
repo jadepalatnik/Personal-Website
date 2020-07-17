@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+
+.element {
+  /* ... */
+}
+
+body {
+  background-color: white;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #a6e3e9;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  font-size: 110px;
+  color: #11999e;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 30px;
+  color: #11999e;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h3 {
+  font-size: 20px;
+  color: #11999e;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h4 {
+  font-size: 50px;
+  color: #11999e;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-top: 5px;
+}
+
+h5 {
+  font-size: 50px;
+  color: #11999e;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-bottom: 0;
+}
+
+p {
+  color: #323232;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+label {
+  color: #323232;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+table {
+  color: #323232;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.Heading {
+  margin: 0;
+  padding-top: 50px;
+  padding-bottom: 120px;
+}
+
+div {
+  background-color: #e3fdfd
+}
+
+.Cloud-1 {
+  position: absolute;
+  top: 50px;
+  left:100px;
+  bottom: 10px;
+}
+
+.Cloud-2 {
+  position: absolute;
+  left: 100px;
+  bottom: 305px;
+
+}
+
+.Cloud-3 {
+  position: absolute;
+  left: 850px;
+  top: 450px;
+}
+
+.Cloud-4 {
+  position: absolute;
+  right: 10px;
+  bottom: 450px;
+}
+
+.City-image {
+  height: 100px;
+}
